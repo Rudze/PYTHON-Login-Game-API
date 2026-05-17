@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"G:\\\\Documents\\\\Développement\\\\Python\\\\PYTHON-Login-Game-API\\\\.venv\\\\Scripts\\\\uvicorn.exe\" --version 2>&1)",
+      "PowerShell(& \"G:\\\\Documents\\\\Développement\\\\Python\\\\PYTHON-Login-Game-API\\\\.venv\\\\Scripts\\\\pip.exe\" install uvicorn fastapi)"
+    ]
+  }
+}

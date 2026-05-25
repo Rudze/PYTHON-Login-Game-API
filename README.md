@@ -5,6 +5,12 @@
 ---
 
 <div align="center">
+  <img alt="Demo" src="./assets_readme/images/background.png" />
+</div>
+
+<br/>
+
+<div align="center">
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
